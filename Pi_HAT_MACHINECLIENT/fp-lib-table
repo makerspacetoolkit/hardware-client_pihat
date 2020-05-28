@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name KF0602D)(type KiCad)(uri ${KIPRJMOD}/KF0602D.pretty)(options "")(descr ""))
+  (lib (name mstk-silkscreen)(type KiCad)(uri ${KIPRJMOD}/mstk-silkscreen.pretty)(options "")(descr ""))
+  (lib (name TB010-508-05BE)(type Legacy)(uri /Users/peter/Documents/kicads/TB010-508-05BE/TB010-508-05BE.mod)(options "")(descr ""))
+)

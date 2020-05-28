@@ -1,0 +1,9 @@
+Reference, Quantity, Value, Footprint,, Datasheet
+J1 ,1,"Screw_Terminal_01x05","TerminalBlock:TerminalBlock_bornier-5_P5.08mm",q1,"~"
+J2 ,1,"Conn_02x20_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical",no,"~"
+J3 ,1,"Conn_01x08_Male","Connector_JST:JST_XH_B08B-XH-A_1x08_P2.50mm_Vertical",q1,"~"
+J4 J6 ,2,"Conn_01x02_Male","Connector_JST:JST_XH_S02B-XH-A-1_1x02_P2.50mm_Horizontal",q2,"~"
+J5 ,1,"Conn_01x06_Male","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical",no,"~"
+U1 ,1,"Interlock","OptoDevice:Finder_34.81",no,"http://www.us.liteon.com/downloads/LTV-817-827-847.PDF"
+U2 ,1,"Filter_Control","OptoDevice:Finder_34.81",no,"http://www.us.liteon.com/downloads/LTV-817-827-847.PDF"
+U3 ,1,"Filter_Signal","OptoDevice:Finder_34.81",no,"http://www.us.liteon.com/downloads/LTV-817-827-847.PDF"

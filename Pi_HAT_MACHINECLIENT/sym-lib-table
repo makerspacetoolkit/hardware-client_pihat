@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name custom1)(type Legacy)(uri /Users/peter/Documents/kicads/Pi_HAT_MACHINECLIENT/custom1.lib)(options "")(descr ""))
+  (lib (name Driver_Motor)(type Legacy)(uri "/Library/Application Support/kicad/library/Driver_Motor.lib")(options "")(descr ""))
+)
